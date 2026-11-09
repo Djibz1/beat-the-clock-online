@@ -1,0 +1,2124 @@
+{
+ "Animals": [
+  {
+   "img": "images/a-bear.jpg",
+   "a": "Bear",
+   "aa": "الدب",
+   "d": 1
+  },
+  {
+   "img": "images/a-camel.jpg",
+   "a": "Camel",
+   "aa": "الجمل",
+   "d": 1
+  },
+  {
+   "img": "images/a-crocodile.jpg",
+   "a": "Crocodile",
+   "aa": "التمساح",
+   "d": 1
+  },
+  {
+   "img": "images/a-dolphin.jpg",
+   "a": "Dolphin",
+   "aa": "الدلفين",
+   "d": 1
+  },
+  {
+   "img": "images/a-eagle.jpg",
+   "a": "Eagle",
+   "aa": "العقاب",
+   "d": 1
+  },
+  {
+   "img": "images/a-elephant.jpg",
+   "a": "Elephant",
+   "aa": "الفيل",
+   "d": 1
+  },
+  {
+   "img": "images/a-giraffe.jpg",
+   "a": "Giraffe",
+   "aa": "الزرافة",
+   "d": 1
+  },
+  {
+   "img": "images/a-horse.jpg",
+   "a": "Horse",
+   "aa": "الحصان",
+   "d": 1
+  },
+  {
+   "img": "images/a-kangaroo.jpg",
+   "a": "Kangaroo",
+   "aa": "الكنغر",
+   "d": 1
+  },
+  {
+   "img": "images/a-lion.jpg",
+   "a": "Lion",
+   "aa": "الأسد",
+   "d": 1
+  },
+  {
+   "img": "images/a-monkey.jpg",
+   "a": "Monkey",
+   "aa": "القرد",
+   "d": 1
+  },
+  {
+   "img": "images/a-owl.jpg",
+   "a": "Owl",
+   "aa": "البومة",
+   "d": 1
+  },
+  {
+   "img": "images/a-penguin.jpg",
+   "a": "Penguin",
+   "aa": "البطريق",
+   "d": 1
+  },
+  {
+   "img": "images/a-shark.jpg",
+   "a": "Shark",
+   "aa": "القرش",
+   "d": 1
+  },
+  {
+   "img": "images/a-tiger.jpg",
+   "a": "Tiger",
+   "aa": "النمر",
+   "d": 1
+  },
+  {
+   "img": "images/a-wolf.jpg",
+   "a": "Wolf",
+   "aa": "الذئب",
+   "d": 1
+  },
+  {
+   "img": "images/a-zebra.jpg",
+   "a": "Zebra",
+   "aa": "الحمار الوحشي",
+   "d": 1
+  },
+  {
+   "img": "images/a-armadillo.jpg",
+   "a": "Armadillo",
+   "aa": "المدرع (أرماديلو)",
+   "d": 2
+  },
+  {
+   "img": "images/a-chameleon.jpg",
+   "a": "Chameleon",
+   "aa": "الحرباء",
+   "d": 2
+  },
+  {
+   "img": "images/a-cheetah.jpg",
+   "a": "Cheetah",
+   "aa": "الفهد",
+   "d": 2
+  },
+  {
+   "img": "images/a-flamingo.jpg",
+   "a": "Flamingo",
+   "aa": "الفلامنغو",
+   "d": 2
+  },
+  {
+   "img": "images/a-gorilla.jpg",
+   "a": "Gorilla",
+   "aa": "الغوريلا",
+   "d": 2
+  },
+  {
+   "img": "images/a-hippo.jpg",
+   "a": "Hippo",
+   "aa": "فرس النهر",
+   "d": 2
+  },
+  {
+   "img": "images/a-jellyfish.jpg",
+   "a": "Jellyfish",
+   "aa": "قنديل البحر",
+   "d": 2
+  },
+  {
+   "img": "images/a-koala.jpg",
+   "a": "Koala",
+   "aa": "الكوالا",
+   "d": 2
+  },
+  {
+   "img": "images/a-lemur.jpg",
+   "a": "Lemur",
+   "aa": "الليمور (سيفاكا)",
+   "d": 2
+  },
+  {
+   "img": "images/a-meerkat.jpg",
+   "a": "Meerkat",
+   "aa": "ميركات",
+   "d": 2
+  },
+  {
+   "img": "images/a-octopus.jpg",
+   "a": "Octopus",
+   "aa": "الأخطبوط",
+   "d": 2
+  },
+  {
+   "img": "images/a-peacock.jpg",
+   "a": "Peacock",
+   "aa": "الطاووس",
+   "d": 2
+  },
+  {
+   "img": "images/a-red-panda.jpg",
+   "a": "Red panda",
+   "aa": "الباندا الحمراء",
+   "d": 2
+  },
+  {
+   "img": "images/a-rhinoceros.jpg",
+   "a": "Rhinoceros",
+   "aa": "وحيد القرن",
+   "d": 2
+  },
+  {
+   "img": "images/a-seahorse.jpg",
+   "a": "Seahorse",
+   "aa": "حصان البحر",
+   "d": 2
+  },
+  {
+   "img": "images/a-sloth.jpg",
+   "a": "Sloth",
+   "aa": "الكسلان",
+   "d": 2
+  },
+  {
+   "img": "images/a-walrus.jpg",
+   "a": "Walrus",
+   "aa": "الفظ",
+   "d": 2
+  },
+  {
+   "img": "images/a-aye-aye.jpg",
+   "a": "Aye-aye",
+   "aa": "الأي-أي",
+   "d": 3
+  },
+  {
+   "img": "images/a-blackbuck.jpg",
+   "a": "Blackbuck",
+   "aa": "الظبي الأسود",
+   "d": 3
+  },
+  {
+   "img": "images/a-capybara.jpg",
+   "a": "Capybara",
+   "aa": "الكابيبارا",
+   "d": 3
+  },
+  {
+   "img": "images/a-manatee.jpg",
+   "a": "Manatee",
+   "aa": "خروف البحر (المانيتي)",
+   "d": 3
+  },
+  {
+   "img": "images/a-pangolin.jpg",
+   "a": "Pangolin",
+   "aa": "آكل النمل الحرشفي",
+   "d": 3
+  },
+  {
+   "img": "images/a-shoebill.jpg",
+   "a": "Shoebill",
+   "aa": "أبو مركوب",
+   "d": 3
+  }
+ ],
+ "Food": [
+  {
+   "img": "images/f-burger.jpg",
+   "a": "Burger",
+   "aa": "برغر",
+   "d": 1
+  },
+  {
+   "img": "images/f-chocolate-cake.jpg",
+   "a": "Chocolate cake",
+   "aa": "كيكة الشوكولاتة",
+   "d": 1
+  },
+  {
+   "img": "images/f-croissant.jpg",
+   "a": "Croissant",
+   "aa": "كرواسان",
+   "d": 1
+  },
+  {
+   "img": "images/f-donut.jpg",
+   "a": "Donut",
+   "aa": "دونات",
+   "d": 1
+  },
+  {
+   "img": "images/f-falafel.jpg",
+   "a": "Falafel",
+   "aa": "فلافل",
+   "d": 1
+  },
+  {
+   "img": "images/f-french-fries.jpg",
+   "a": "French fries",
+   "aa": "بطاطس مقلية",
+   "d": 1
+  },
+  {
+   "img": "images/f-fried-chicken.jpg",
+   "a": "Fried chicken",
+   "aa": "دجاج مقلي",
+   "d": 1
+  },
+  {
+   "img": "images/f-hot-dog.jpg",
+   "a": "Hot dog",
+   "aa": "هوت دوغ",
+   "d": 1
+  },
+  {
+   "img": "images/f-hummus.jpg",
+   "a": "Hummus",
+   "aa": "حمص",
+   "d": 1
+  },
+  {
+   "img": "images/f-ice-cream.jpg",
+   "a": "Ice cream",
+   "aa": "آيس كريم",
+   "d": 1
+  },
+  {
+   "img": "images/f-pancakes.jpg",
+   "a": "Pancakes",
+   "aa": "بانكيك",
+   "d": 1
+  },
+  {
+   "img": "images/f-pizza.jpg",
+   "a": "Pizza",
+   "aa": "بيتزا",
+   "d": 1
+  },
+  {
+   "img": "images/f-popcorn.jpg",
+   "a": "Popcorn",
+   "aa": "فشار",
+   "d": 1
+  },
+  {
+   "img": "images/f-shawarma.jpg",
+   "a": "Shawarma",
+   "aa": "شاورما",
+   "d": 1
+  },
+  {
+   "img": "images/f-spaghetti.jpg",
+   "a": "Spaghetti",
+   "aa": "سباغيتي",
+   "d": 1
+  },
+  {
+   "img": "images/f-sushi.jpg",
+   "a": "Sushi",
+   "aa": "سوشي",
+   "d": 1
+  },
+  {
+   "img": "images/f-tacos.jpg",
+   "a": "Tacos",
+   "aa": "تاكو",
+   "d": 1
+  },
+  {
+   "img": "images/f-baklava.jpg",
+   "a": "Baklava",
+   "aa": "بقلاوة",
+   "d": 2
+  },
+  {
+   "img": "images/f-biryani.jpg",
+   "a": "Biryani",
+   "aa": "برياني",
+   "d": 2
+  },
+  {
+   "img": "images/f-burrito.jpg",
+   "a": "Burrito",
+   "aa": "بوريتو",
+   "d": 2
+  },
+  {
+   "img": "images/f-cheesecake.jpg",
+   "a": "Cheesecake",
+   "aa": "تشيز كيك",
+   "d": 2
+  },
+  {
+   "img": "images/f-couscous.jpg",
+   "a": "Couscous",
+   "aa": "كسكس",
+   "d": 2
+  },
+  {
+   "img": "images/f-dumplings-wonton.jpg",
+   "a": "Dumplings (wonton)",
+   "aa": "وونتون (دامبلينغ)",
+   "d": 2
+  },
+  {
+   "img": "images/f-fattoush.jpg",
+   "a": "Fattoush",
+   "aa": "فتوش",
+   "d": 2
+  },
+  {
+   "img": "images/f-fish-and-chips.jpg",
+   "a": "Fish and chips",
+   "aa": "فيش آند تشيبس",
+   "d": 2
+  },
+  {
+   "img": "images/f-kebab.jpg",
+   "a": "Kebab",
+   "aa": "كباب",
+   "d": 2
+  },
+  {
+   "img": "images/f-lasagna.jpg",
+   "a": "Lasagna",
+   "aa": "لازانيا",
+   "d": 2
+  },
+  {
+   "img": "images/f-paella.jpg",
+   "a": "Paella",
+   "aa": "باييلا",
+   "d": 2
+  },
+  {
+   "img": "images/f-ramen.jpg",
+   "a": "Ramen",
+   "aa": "رامن",
+   "d": 2
+  },
+  {
+   "img": "images/f-samosa.jpg",
+   "a": "Samosa",
+   "aa": "سمبوسة",
+   "d": 2
+  },
+  {
+   "img": "images/f-tabbouleh.jpg",
+   "a": "Tabbouleh",
+   "aa": "تبولة",
+   "d": 2
+  },
+  {
+   "img": "images/f-tiramisu.jpg",
+   "a": "Tiramisu",
+   "aa": "تيراميسو",
+   "d": 2
+  },
+  {
+   "img": "images/f-waffles.jpg",
+   "a": "Waffles",
+   "aa": "وافل",
+   "d": 2
+  },
+  {
+   "img": "images/f-ful-medames.jpg",
+   "a": "Ful medames",
+   "aa": "فول مدمس",
+   "d": 3
+  },
+  {
+   "img": "images/f-kunafa.jpg",
+   "a": "Kunafa",
+   "aa": "كنافة",
+   "d": 3
+  },
+  {
+   "img": "images/f-mansaf.jpg",
+   "a": "Mansaf",
+   "aa": "منسف",
+   "d": 3
+  },
+  {
+   "img": "images/f-maqluba.jpg",
+   "a": "Maqluba",
+   "aa": "مقلوبة",
+   "d": 3
+  },
+  {
+   "img": "images/f-poutine.jpg",
+   "a": "Poutine",
+   "aa": "بوتين",
+   "d": 3
+  },
+  {
+   "img": "images/f-shakshuka.jpg",
+   "a": "Shakshuka",
+   "aa": "شكشوكة",
+   "d": 3
+  },
+  {
+   "img": "images/f-tagine.jpg",
+   "a": "Tagine",
+   "aa": "طاجن",
+   "d": 3
+  }
+ ],
+ "Arabic Artists": [
+  {
+   "img": "images/ar-abdel-halim-hafez.jpg",
+   "a": "Abdel Halim Hafez",
+   "aa": "عبد الحليم حافظ",
+   "d": 1
+  },
+  {
+   "img": "images/ar-adel-imam.jpg",
+   "a": "Adel Imam",
+   "aa": "عادل إمام",
+   "d": 1
+  },
+  {
+   "img": "images/ar-ahmed-ezz.jpg",
+   "a": "Ahmed Ezz",
+   "aa": "أحمد عز",
+   "d": 1
+  },
+  {
+   "img": "images/ar-ahmed-helmy.jpg",
+   "a": "Ahmed Helmy",
+   "aa": "أحمد حلمي",
+   "d": 1
+  },
+  {
+   "img": "images/ar-amr-diab.jpg",
+   "a": "Amr Diab",
+   "aa": "عمرو دياب",
+   "d": 1
+  },
+  {
+   "img": "images/ar-elissa.jpg",
+   "a": "Elissa",
+   "aa": "إليسا",
+   "d": 1
+  },
+  {
+   "img": "images/ar-fairuz.jpg",
+   "a": "Fairuz",
+   "aa": "فيروز",
+   "d": 1
+  },
+  {
+   "img": "images/ar-haifa-wehbe.jpg",
+   "a": "Haifa Wehbe",
+   "aa": "هيفاء وهبي",
+   "d": 1
+  },
+  {
+   "img": "images/ar-kadim-al-sahir.jpg",
+   "a": "Kadim Al Sahir",
+   "aa": "كاظم الساهر",
+   "d": 1
+  },
+  {
+   "img": "images/ar-mohamed-henedy.jpg",
+   "a": "Mohamed Henedy",
+   "aa": "محمد هنيدي",
+   "d": 1
+  },
+  {
+   "img": "images/ar-mohammed-assaf.jpg",
+   "a": "Mohammed Assaf",
+   "aa": "محمد عساف",
+   "d": 1
+  },
+  {
+   "img": "images/ar-mona-zaki.jpg",
+   "a": "Mona Zaki",
+   "aa": "منى زكي",
+   "d": 1
+  },
+  {
+   "img": "images/ar-nancy-ajram.jpg",
+   "a": "Nancy Ajram",
+   "aa": "نانسي عجرم",
+   "d": 1
+  },
+  {
+   "img": "images/ar-nelly-karim.jpg",
+   "a": "Nelly Karim",
+   "aa": "نيللي كريم",
+   "d": 1
+  },
+  {
+   "img": "images/ar-tamer-hosny.jpg",
+   "a": "Tamer Hosny",
+   "aa": "تامر حسني",
+   "d": 1
+  },
+  {
+   "img": "images/ar-umm-kulthum.jpg",
+   "a": "Umm Kulthum",
+   "aa": "أم كلثوم",
+   "d": 1
+  },
+  {
+   "img": "images/ar-yousra.jpg",
+   "a": "Yousra",
+   "aa": "يسرا",
+   "d": 1
+  },
+  {
+   "img": "images/ar-angham.jpg",
+   "a": "Angham",
+   "aa": "أنغام",
+   "d": 2
+  },
+  {
+   "img": "images/ar-cheb-khaled.jpg",
+   "a": "Cheb Khaled",
+   "aa": "الشاب خالد",
+   "d": 2
+  },
+  {
+   "img": "images/ar-diana-haddad.jpg",
+   "a": "Diana Haddad",
+   "aa": "ديانا حداد",
+   "d": 2
+  },
+  {
+   "img": "images/ar-fadel-shaker.jpg",
+   "a": "Fadel Shaker",
+   "aa": "فضل شاكر",
+   "d": 2
+  },
+  {
+   "img": "images/ar-hani-shaker.jpg",
+   "a": "Hani Shaker",
+   "aa": "هاني شاكر",
+   "d": 2
+  },
+  {
+   "img": "images/ar-hussain-al-jassmi.jpg",
+   "a": "Hussain Al Jassmi",
+   "aa": "حسين الجسمي",
+   "d": 2
+  },
+  {
+   "img": "images/ar-marwan-khoury.jpg",
+   "a": "Marwan Khoury",
+   "aa": "مروان خوري",
+   "d": 2
+  },
+  {
+   "img": "images/ar-melhem-zain.jpg",
+   "a": "Melhem Zain",
+   "aa": "ملحم زين",
+   "d": 2
+  },
+  {
+   "img": "images/ar-mohamed-hamaki.jpg",
+   "a": "Mohamed Hamaki",
+   "aa": "محمد حماقي",
+   "d": 2
+  },
+  {
+   "img": "images/ar-ragheb-alama.jpg",
+   "a": "Ragheb Alama",
+   "aa": "راغب علامة",
+   "d": 2
+  },
+  {
+   "img": "images/ar-rashed-al-majed.jpg",
+   "a": "Rashed Al Majed",
+   "aa": "راشد الماجد",
+   "d": 2
+  },
+  {
+   "img": "images/ar-saad-lamjarred.jpg",
+   "a": "Saad Lamjarred",
+   "aa": "سعد لمجرد",
+   "d": 2
+  },
+  {
+   "img": "images/ar-sherine-abdel-wahab.jpg",
+   "a": "Sherine Abdel Wahab",
+   "aa": "شيرين عبد الوهاب",
+   "d": 2
+  },
+  {
+   "img": "images/ar-tamara-bahri.jpg",
+   "a": "Tamara Bahri",
+   "aa": "تمارا بحري",
+   "d": 2
+  },
+  {
+   "img": "images/ar-wael-kfoury.jpg",
+   "a": "Wael Kfoury",
+   "aa": "وائل كفوري",
+   "d": 2
+  },
+  {
+   "img": "images/ar-asmahan.jpg",
+   "a": "Asmahan",
+   "aa": "أسمهان",
+   "d": 3
+  },
+  {
+   "img": "images/ar-farid-al-atrash.jpg",
+   "a": "Farid Al Atrash",
+   "aa": "فريد الأطرش",
+   "d": 3
+  },
+  {
+   "img": "images/ar-faten-hamama.jpg",
+   "a": "Faten Hamama",
+   "aa": "فاتن حمامة",
+   "d": 3
+  },
+  {
+   "img": "images/ar-ghassan-massoud.jpg",
+   "a": "Ghassan Massoud",
+   "aa": "غسان مسعود",
+   "d": 3
+  },
+  {
+   "img": "images/ar-jamal-suleiman.jpg",
+   "a": "Jamal Suleiman",
+   "aa": "جمال سليمان",
+   "d": 3
+  },
+  {
+   "img": "images/ar-mohamed-abdel-wahab.jpg",
+   "a": "Mohamed Abdel Wahab",
+   "aa": "محمد عبد الوهاب",
+   "d": 3
+  },
+  {
+   "img": "images/ar-nour-el-sherif.jpg",
+   "a": "Nour El-Sherif",
+   "aa": "نور الشريف",
+   "d": 3
+  },
+  {
+   "img": "images/ar-omar-sharif.jpg",
+   "a": "Omar Sharif",
+   "aa": "عمر الشريف",
+   "d": 3
+  },
+  {
+   "img": "images/ar-sabah-fakhri.jpg",
+   "a": "Sabah Fakhri",
+   "aa": "صباح فخري",
+   "d": 3
+  },
+  {
+   "img": "images/ar-samir-ghanem.jpg",
+   "a": "Samir Ghanem",
+   "aa": "سمير غانم",
+   "d": 3
+  },
+  {
+   "img": "images/ar-soad-hosny.jpg",
+   "a": "Soad Hosny",
+   "aa": "سعاد حسني",
+   "d": 3
+  },
+  {
+   "img": "images/ar-wadih-el-safi.jpg",
+   "a": "Wadih El Safi",
+   "aa": "وديع الصافي",
+   "d": 3
+  },
+  {
+   "img": "images/ar-yasmine-hamdan.jpg",
+   "a": "Yasmine Hamdan",
+   "aa": "ياسمين حمدان",
+   "d": 3
+  }
+ ],
+ "Football Players": [
+  {
+   "img": "images/p-cristiano-ronaldo.jpg",
+   "a": "Cristiano Ronaldo",
+   "aa": "كريستيانو رونالدو",
+   "d": 1
+  },
+  {
+   "img": "images/p-diego-maradona.jpg",
+   "a": "Diego Maradona",
+   "aa": "دييغو مارادونا",
+   "d": 1
+  },
+  {
+   "img": "images/p-erling-haaland.jpg",
+   "a": "Erling Haaland",
+   "aa": "إرلينغ هالاند",
+   "d": 1
+  },
+  {
+   "img": "images/p-karim-benzema.jpg",
+   "a": "Karim Benzema",
+   "aa": "كريم بنزيما",
+   "d": 1
+  },
+  {
+   "img": "images/p-kevin-de-bruyne.jpg",
+   "a": "Kevin De Bruyne",
+   "aa": "كيفن دي بروين",
+   "d": 1
+  },
+  {
+   "img": "images/p-kylian-mbapp.jpg",
+   "a": "Kylian Mbappé",
+   "aa": "كيليان مبابي",
+   "d": 1
+  },
+  {
+   "img": "images/p-lionel-messi.jpg",
+   "a": "Lionel Messi",
+   "aa": "ليونيل ميسي",
+   "d": 1
+  },
+  {
+   "img": "images/p-luka-modri.jpg",
+   "a": "Luka Modrić",
+   "aa": "لوكا مودريتش",
+   "d": 1
+  },
+  {
+   "img": "images/p-mohamed-salah.jpg",
+   "a": "Mohamed Salah",
+   "aa": "محمد صلاح",
+   "d": 1
+  },
+  {
+   "img": "images/p-neymar.jpg",
+   "a": "Neymar",
+   "aa": "نيمار",
+   "d": 1
+  },
+  {
+   "img": "images/p-pel.jpg",
+   "a": "Pelé",
+   "aa": "بيليه",
+   "d": 1
+  },
+  {
+   "img": "images/p-robert-lewandowski.jpg",
+   "a": "Robert Lewandowski",
+   "aa": "روبرت ليفاندوفسكي",
+   "d": 1
+  },
+  {
+   "img": "images/p-ronaldinho.jpg",
+   "a": "Ronaldinho",
+   "aa": "رونالدينيو",
+   "d": 1
+  },
+  {
+   "img": "images/p-sergio-ramos.jpg",
+   "a": "Sergio Ramos",
+   "aa": "سيرجيو راموس",
+   "d": 1
+  },
+  {
+   "img": "images/p-wayne-rooney.jpg",
+   "a": "Wayne Rooney",
+   "aa": "واين روني",
+   "d": 1
+  },
+  {
+   "img": "images/p-zinedine-zidane.jpg",
+   "a": "Zinedine Zidane",
+   "aa": "زين الدين زيدان",
+   "d": 1
+  },
+  {
+   "img": "images/p-zlatan-ibrahimovi.jpg",
+   "a": "Zlatan Ibrahimović",
+   "aa": "زلاتان إبراهيموفيتش",
+   "d": 1
+  },
+  {
+   "img": "images/p-achraf-hakimi.jpg",
+   "a": "Achraf Hakimi",
+   "aa": "أشرف حكيمي",
+   "d": 2
+  },
+  {
+   "img": "images/p-andr-s-iniesta.jpg",
+   "a": "Andrés Iniesta",
+   "aa": "أندريس إنييستا",
+   "d": 2
+  },
+  {
+   "img": "images/p-antoine-griezmann.jpg",
+   "a": "Antoine Griezmann",
+   "aa": "أنطوان غريزمان",
+   "d": 2
+  },
+  {
+   "img": "images/p-david-beckham.jpg",
+   "a": "David Beckham",
+   "aa": "ديفيد بيكهام",
+   "d": 2
+  },
+  {
+   "img": "images/p-harry-kane.jpg",
+   "a": "Harry Kane",
+   "aa": "هاري كين",
+   "d": 2
+  },
+  {
+   "img": "images/p-jo-o-cancelo.jpg",
+   "a": "João Cancelo",
+   "aa": "جواو كانسيلو",
+   "d": 2
+  },
+  {
+   "img": "images/p-jude-bellingham.jpg",
+   "a": "Jude Bellingham",
+   "aa": "جود بيلينغهام",
+   "d": 2
+  },
+  {
+   "img": "images/p-lamine-yamal.jpg",
+   "a": "Lamine Yamal",
+   "aa": "لامين يامال",
+   "d": 2
+  },
+  {
+   "img": "images/p-manuel-neuer.jpg",
+   "a": "Manuel Neuer",
+   "aa": "مانويل نوير",
+   "d": 2
+  },
+  {
+   "img": "images/p-paul-pogba.jpg",
+   "a": "Paul Pogba",
+   "aa": "بول بوغبا",
+   "d": 2
+  },
+  {
+   "img": "images/p-pedri.jpg",
+   "a": "Pedri",
+   "aa": "بيدري",
+   "d": 2
+  },
+  {
+   "img": "images/p-riyad-mahrez.jpg",
+   "a": "Riyad Mahrez",
+   "aa": "رياض محرز",
+   "d": 2
+  },
+  {
+   "img": "images/p-sadio-man.jpg",
+   "a": "Sadio Mané",
+   "aa": "ساديو ماني",
+   "d": 2
+  },
+  {
+   "img": "images/p-son-heung-min.jpg",
+   "a": "Son Heung-min",
+   "aa": "سون هيونغ مين",
+   "d": 2
+  },
+  {
+   "img": "images/p-thibaut-courtois.jpg",
+   "a": "Thibaut Courtois",
+   "aa": "تيبو كورتوا",
+   "d": 2
+  },
+  {
+   "img": "images/p-thierry-henry.jpg",
+   "a": "Thierry Henry",
+   "aa": "تييري هنري",
+   "d": 2
+  },
+  {
+   "img": "images/p-vin-cius-j-nior.jpg",
+   "a": "Vinícius Júnior",
+   "aa": "فينيسيوس جونيور",
+   "d": 2
+  },
+  {
+   "img": "images/p-virgil-van-dijk.jpg",
+   "a": "Virgil van Dijk",
+   "aa": "فيرجيل فان دايك",
+   "d": 2
+  },
+  {
+   "img": "images/p-xavi.jpg",
+   "a": "Xavi",
+   "aa": "تشافي",
+   "d": 2
+  },
+  {
+   "img": "images/p-didier-drogba.jpg",
+   "a": "Didier Drogba",
+   "aa": "ديدييه دروغبا",
+   "d": 3
+  },
+  {
+   "img": "images/p-franz-beckenbauer.jpg",
+   "a": "Franz Beckenbauer",
+   "aa": "فرانتس بيكنباور",
+   "d": 3
+  },
+  {
+   "img": "images/p-gianluigi-buffon.jpg",
+   "a": "Gianluigi Buffon",
+   "aa": "جانلويجي بوفون",
+   "d": 3
+  },
+  {
+   "img": "images/p-hakim-ziyech.jpg",
+   "a": "Hakim Ziyech",
+   "aa": "حكيم زياش",
+   "d": 3
+  },
+  {
+   "img": "images/p-joan-garc-a.jpg",
+   "a": "Joan García",
+   "aa": "جوان غارسيا",
+   "d": 3
+  },
+  {
+   "img": "images/p-johan-cruyff.jpg",
+   "a": "Johan Cruyff",
+   "aa": "يوهان كرويف",
+   "d": 3
+  },
+  {
+   "img": "images/p-karim-adeyemi.jpg",
+   "a": "Karim Adeyemi",
+   "aa": "كريم أديمي",
+   "d": 3
+  },
+  {
+   "img": "images/p-mahmoud-trezeguet.jpg",
+   "a": "Mahmoud Trezeguet",
+   "aa": "محمود تريزيغيه",
+   "d": 3
+  },
+  {
+   "img": "images/p-michel-platini.jpg",
+   "a": "Michel Platini",
+   "aa": "ميشيل بلاتيني",
+   "d": 3
+  },
+  {
+   "img": "images/p-musa-al-tamari.jpg",
+   "a": "Musa Al-Tamari",
+   "aa": "موسى التعمري",
+   "d": 3
+  },
+  {
+   "img": "images/p-omar-marmoush.jpg",
+   "a": "Omar Marmoush",
+   "aa": "عمر مرموش",
+   "d": 3
+  },
+  {
+   "img": "images/p-paolo-maldini.jpg",
+   "a": "Paolo Maldini",
+   "aa": "باولو مالديني",
+   "d": 3
+  },
+  {
+   "img": "images/p-roberto-baggio.jpg",
+   "a": "Roberto Baggio",
+   "aa": "روبرتو باجيو",
+   "d": 3
+  },
+  {
+   "img": "images/p-salem-al-dawsari.jpg",
+   "a": "Salem Al-Dawsari",
+   "aa": "سالم الدوسري",
+   "d": 3
+  },
+  {
+   "img": "images/p-sofyan-amrabat.jpg",
+   "a": "Sofyan Amrabat",
+   "aa": "سفيان أمرابط",
+   "d": 3
+  },
+  {
+   "img": "images/p-yassine-bounou.jpg",
+   "a": "Yassine Bounou",
+   "aa": "ياسين بونو",
+   "d": 3
+  },
+  {
+   "img": "images/p-yaya-tour.jpg",
+   "a": "Yaya Touré",
+   "aa": "يحيى توريه",
+   "d": 3
+  }
+ ],
+ "Car Brands": [
+  {
+   "img": "images/c-audi.jpg",
+   "a": "Audi",
+   "aa": "أودي",
+   "d": 1
+  },
+  {
+   "img": "images/c-bmw.jpg",
+   "a": "BMW",
+   "aa": "بي إم دبليو",
+   "d": 1
+  },
+  {
+   "img": "images/c-chevrolet.jpg",
+   "a": "Chevrolet",
+   "aa": "شيفروليه",
+   "d": 1
+  },
+  {
+   "img": "images/c-ferrari.jpg",
+   "a": "Ferrari",
+   "aa": "فيراري",
+   "d": 1
+  },
+  {
+   "img": "images/c-ford.jpg",
+   "a": "Ford",
+   "aa": "فورد",
+   "d": 1
+  },
+  {
+   "img": "images/c-honda.jpg",
+   "a": "Honda",
+   "aa": "هوندا",
+   "d": 1
+  },
+  {
+   "img": "images/c-hyundai.jpg",
+   "a": "Hyundai",
+   "aa": "هيونداي",
+   "d": 1
+  },
+  {
+   "img": "images/c-lamborghini.jpg",
+   "a": "Lamborghini",
+   "aa": "لامبورغيني",
+   "d": 1
+  },
+  {
+   "img": "images/c-mazda.jpg",
+   "a": "Mazda",
+   "aa": "مازدا",
+   "d": 1
+  },
+  {
+   "img": "images/c-mercedes-benz.jpg",
+   "a": "Mercedes-Benz",
+   "aa": "مرسيدس-بنز",
+   "d": 1
+  },
+  {
+   "img": "images/c-nissan.jpg",
+   "a": "Nissan",
+   "aa": "نيسان",
+   "d": 1
+  },
+  {
+   "img": "images/c-peugeot.jpg",
+   "a": "Peugeot",
+   "aa": "بيجو",
+   "d": 1
+  },
+  {
+   "img": "images/c-porsche.jpg",
+   "a": "Porsche",
+   "aa": "بورشه",
+   "d": 1
+  },
+  {
+   "img": "images/c-tesla.jpg",
+   "a": "Tesla",
+   "aa": "تسلا",
+   "d": 1
+  },
+  {
+   "img": "images/c-toyota.jpg",
+   "a": "Toyota",
+   "aa": "تويوتا",
+   "d": 1
+  },
+  {
+   "img": "images/c-volkswagen.jpg",
+   "a": "Volkswagen",
+   "aa": "فولكس فاجن",
+   "d": 1
+  },
+  {
+   "img": "images/c-aston-martin.jpg",
+   "a": "Aston Martin",
+   "aa": "أستون مارتن",
+   "d": 2
+  },
+  {
+   "img": "images/c-bentley.jpg",
+   "a": "Bentley",
+   "aa": "بنتلي",
+   "d": 2
+  },
+  {
+   "img": "images/c-buick.jpg",
+   "a": "Buick",
+   "aa": "بيوك",
+   "d": 2
+  },
+  {
+   "img": "images/c-cadillac.jpg",
+   "a": "Cadillac",
+   "aa": "كاديلاك",
+   "d": 2
+  },
+  {
+   "img": "images/c-citro-n.jpg",
+   "a": "Citroën",
+   "aa": "ستروين",
+   "d": 2
+  },
+  {
+   "img": "images/c-dodge.jpg",
+   "a": "Dodge",
+   "aa": "دودج",
+   "d": 2
+  },
+  {
+   "img": "images/c-infiniti.jpg",
+   "a": "Infiniti",
+   "aa": "إنفينيتي",
+   "d": 2
+  },
+  {
+   "img": "images/c-lexus.jpg",
+   "a": "Lexus",
+   "aa": "لكزس",
+   "d": 2
+  },
+  {
+   "img": "images/c-maserati.jpg",
+   "a": "Maserati",
+   "aa": "مازيراتي",
+   "d": 2
+  },
+  {
+   "img": "images/c-mclaren.jpg",
+   "a": "McLaren",
+   "aa": "ماكلارين",
+   "d": 2
+  },
+  {
+   "img": "images/c-opel.jpg",
+   "a": "Opel",
+   "aa": "أوبل",
+   "d": 2
+  },
+  {
+   "img": "images/c-renault.jpg",
+   "a": "Renault",
+   "aa": "رينو",
+   "d": 2
+  },
+  {
+   "img": "images/c-rolls-royce.jpg",
+   "a": "Rolls-Royce",
+   "aa": "رولز-رويس",
+   "d": 2
+  },
+  {
+   "img": "images/c-seat.jpg",
+   "a": "SEAT",
+   "aa": "سيات",
+   "d": 2
+  },
+  {
+   "img": "images/c-suzuki.jpg",
+   "a": "Suzuki",
+   "aa": "سوزوكي",
+   "d": 2
+  },
+  {
+   "img": "images/c-koda.jpg",
+   "a": "Škoda",
+   "aa": "سكودا",
+   "d": 2
+  },
+  {
+   "img": "images/c-koenigsegg.jpg",
+   "a": "Koenigsegg",
+   "aa": "كوينيغسيج",
+   "d": 3
+  },
+  {
+   "img": "images/c-saab.jpg",
+   "a": "Saab",
+   "aa": "ساب",
+   "d": 3
+  }
+ ],
+ "Geography": [
+  {
+   "q": "What is the capital of France?",
+   "qa": "ما هي عاصمة فرنسا؟",
+   "a": "Paris",
+   "aa": "باريس",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Japan?",
+   "qa": "ما هي عاصمة اليابان؟",
+   "a": "Tokyo",
+   "aa": "طوكيو",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Egypt?",
+   "qa": "ما هي عاصمة مصر؟",
+   "a": "Cairo",
+   "aa": "القاهرة",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Saudi Arabia?",
+   "qa": "ما هي عاصمة السعودية؟",
+   "a": "Riyadh",
+   "aa": "الرياض",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Jordan?",
+   "qa": "ما هي عاصمة الأردن؟",
+   "a": "Amman",
+   "aa": "عمّان",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Italy?",
+   "qa": "ما هي عاصمة إيطاليا؟",
+   "a": "Rome",
+   "aa": "روما",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Spain?",
+   "qa": "ما هي عاصمة إسبانيا؟",
+   "a": "Madrid",
+   "aa": "مدريد",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of the United Kingdom?",
+   "qa": "ما هي عاصمة المملكة المتحدة؟",
+   "a": "London",
+   "aa": "لندن",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Germany?",
+   "qa": "ما هي عاصمة ألمانيا؟",
+   "a": "Berlin",
+   "aa": "برلين",
+   "d": 1
+  },
+  {
+   "q": "What is the biggest ocean?",
+   "qa": "ما هو أكبر محيط في العالم؟",
+   "a": "Pacific Ocean",
+   "aa": "المحيط الهادئ",
+   "d": 1
+  },
+  {
+   "q": "What is the tallest mountain in the world?",
+   "qa": "ما هو أعلى جبل في العالم؟",
+   "a": "Mount Everest",
+   "aa": "جبل إيفرست",
+   "d": 1
+  },
+  {
+   "q": "How many continents are there?",
+   "qa": "كم عدد قارات العالم؟",
+   "a": "7",
+   "aa": "سبع قارات",
+   "d": 1
+  },
+  {
+   "q": "What is the largest continent?",
+   "qa": "ما هي أكبر قارة في العالم؟",
+   "a": "Asia",
+   "aa": "آسيا",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Turkey?",
+   "qa": "ما هي عاصمة تركيا؟",
+   "a": "Ankara",
+   "aa": "أنقرة",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of the UAE?",
+   "qa": "ما هي عاصمة الإمارات؟",
+   "a": "Abu Dhabi",
+   "aa": "أبوظبي",
+   "d": 1
+  },
+  {
+   "q": "What is the longest river in Africa?",
+   "qa": "ما هو أطول نهر في أفريقيا؟",
+   "a": "The Nile",
+   "aa": "نهر النيل",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of the USA?",
+   "qa": "ما هي عاصمة الولايات المتحدة؟",
+   "a": "Washington, D.C.",
+   "aa": "واشنطن العاصمة",
+   "d": 1
+  },
+  {
+   "q": "What is the capital of Australia?",
+   "qa": "ما هي عاصمة أستراليا؟",
+   "a": "Canberra",
+   "aa": "كانبرا",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Canada?",
+   "qa": "ما هي عاصمة كندا؟",
+   "a": "Ottawa",
+   "aa": "أوتاوا",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Brazil?",
+   "qa": "ما هي عاصمة البرازيل؟",
+   "a": "Brasília",
+   "aa": "برازيليا",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Morocco?",
+   "qa": "ما هي عاصمة المغرب؟",
+   "a": "Rabat",
+   "aa": "الرباط",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Algeria?",
+   "qa": "ما هي عاصمة الجزائر؟",
+   "a": "Algiers",
+   "aa": "الجزائر",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Iraq?",
+   "qa": "ما هي عاصمة العراق؟",
+   "a": "Baghdad",
+   "aa": "بغداد",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Qatar?",
+   "qa": "ما هي عاصمة قطر؟",
+   "a": "Doha",
+   "aa": "الدوحة",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of South Korea?",
+   "qa": "ما هي عاصمة كوريا الجنوبية؟",
+   "a": "Seoul",
+   "aa": "سيول",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Russia?",
+   "qa": "ما هي عاصمة روسيا؟",
+   "a": "Moscow",
+   "aa": "موسكو",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Argentina?",
+   "qa": "ما هي عاصمة الأرجنتين؟",
+   "a": "Buenos Aires",
+   "aa": "بوينس آيرس",
+   "d": 2
+  },
+  {
+   "q": "What is the largest hot desert in the world?",
+   "qa": "ما هي أكبر صحراء حارة في العالم؟",
+   "a": "The Sahara",
+   "aa": "الصحراء الكبرى",
+   "d": 2
+  },
+  {
+   "q": "Which sea lies between Saudi Arabia and Egypt?",
+   "qa": "أي بحر يقع بين السعودية ومصر؟",
+   "a": "The Red Sea",
+   "aa": "البحر الأحمر",
+   "d": 2
+  },
+  {
+   "q": "Which is the largest country by area?",
+   "qa": "ما هي أكبر دولة في العالم من حيث المساحة؟",
+   "a": "Russia",
+   "aa": "روسيا",
+   "d": 2
+  },
+  {
+   "q": "Which country has the most people?",
+   "qa": "أي دولة لديها أكبر عدد من السكان؟",
+   "a": "India",
+   "aa": "الهند",
+   "d": 2
+  },
+  {
+   "q": "What is the longest river in South America?",
+   "qa": "ما هو أطول نهر في أمريكا الجنوبية؟",
+   "a": "The Amazon",
+   "aa": "نهر الأمازون",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Kuwait?",
+   "qa": "ما هي عاصمة الكويت؟",
+   "a": "Kuwait City",
+   "aa": "مدينة الكويت",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Lebanon?",
+   "qa": "ما هي عاصمة لبنان؟",
+   "a": "Beirut",
+   "aa": "بيروت",
+   "d": 2
+  },
+  {
+   "q": "What is the capital of Kazakhstan?",
+   "qa": "ما هي عاصمة كازاخستان؟",
+   "a": "Astana",
+   "aa": "أستانا",
+   "d": 3
+  },
+  {
+   "q": "What is the capital of New Zealand?",
+   "qa": "ما هي عاصمة نيوزيلندا؟",
+   "a": "Wellington",
+   "aa": "ويلينغتون",
+   "d": 3
+  },
+  {
+   "q": "What is the capital of Switzerland?",
+   "qa": "ما هي عاصمة سويسرا؟",
+   "a": "Bern",
+   "aa": "برن",
+   "d": 3
+  },
+  {
+   "q": "What is the capital of Nigeria?",
+   "qa": "ما هي عاصمة نيجيريا؟",
+   "a": "Abuja",
+   "aa": "أبوجا",
+   "d": 3
+  },
+  {
+   "q": "What is the capital of Myanmar?",
+   "qa": "ما هي عاصمة ميانمار؟",
+   "a": "Naypyidaw",
+   "aa": "نايبيداو",
+   "d": 3
+  },
+  {
+   "q": "What is the capital of Mongolia?",
+   "qa": "ما هي عاصمة منغوليا؟",
+   "a": "Ulaanbaatar",
+   "aa": "أولان باتور",
+   "d": 3
+  },
+  {
+   "q": "What is the deepest lake in the world?",
+   "qa": "ما هي أعمق بحيرة في العالم؟",
+   "a": "Lake Baikal",
+   "aa": "بحيرة بايكال",
+   "d": 3
+  },
+  {
+   "q": "What is the smallest country in the world?",
+   "qa": "ما هي أصغر دولة في العالم؟",
+   "a": "Vatican City",
+   "aa": "مدينة الفاتيكان",
+   "d": 3
+  },
+  {
+   "q": "What is the largest island in the world?",
+   "qa": "ما هي أكبر جزيرة في العالم؟",
+   "a": "Greenland",
+   "aa": "غرينلاند",
+   "d": 3
+  },
+  {
+   "q": "What is the highest waterfall in the world?",
+   "qa": "ما هو أعلى شلال في العالم؟",
+   "a": "Angel Falls",
+   "aa": "شلالات أنجل",
+   "d": 3
+  },
+  {
+   "q": "Which strait separates Spain from Morocco?",
+   "qa": "أي مضيق يفصل بين إسبانيا والمغرب؟",
+   "a": "Strait of Gibraltar",
+   "aa": "مضيق جبل طارق",
+   "d": 3
+  },
+  {
+   "q": "What is the longest mountain range on land?",
+   "qa": "ما هي أطول سلسلة جبال على اليابسة؟",
+   "a": "The Andes",
+   "aa": "جبال الأنديز",
+   "d": 3
+  },
+  {
+   "q": "What is the capital of Ethiopia?",
+   "qa": "ما هي عاصمة إثيوبيا؟",
+   "a": "Addis Ababa",
+   "aa": "أديس أبابا",
+   "d": 3
+  },
+  {
+   "q": "Which country has the longest coastline?",
+   "qa": "أي دولة لديها أطول ساحل في العالم؟",
+   "a": "Canada",
+   "aa": "كندا",
+   "d": 3
+  },
+  {
+   "q": "What is the lowest point on Earth's land surface?",
+   "qa": "ما هي أخفض نقطة على اليابسة؟",
+   "a": "The Dead Sea shore",
+   "aa": "شاطئ البحر الميت",
+   "d": 3
+  },
+  {
+   "q": "What is the capital of Sudan?",
+   "qa": "ما هي عاصمة السودان؟",
+   "a": "Khartoum",
+   "aa": "الخرطوم",
+   "d": 3
+  }
+ ],
+ "General Knowledge": [
+  {
+   "q": "How many days are in a week?",
+   "qa": "كم يوماً في الأسبوع؟",
+   "a": "7",
+   "aa": "سبعة",
+   "d": 1
+  },
+  {
+   "q": "What colour do you get by mixing blue and yellow?",
+   "qa": "ما اللون الناتج عن خلط الأزرق والأصفر؟",
+   "a": "Green",
+   "aa": "أخضر",
+   "d": 1
+  },
+  {
+   "q": "How many hours are in a day?",
+   "qa": "كم ساعة في اليوم؟",
+   "a": "24",
+   "aa": "٢٤ ساعة",
+   "d": 1
+  },
+  {
+   "q": "How many days are in a leap year?",
+   "qa": "كم يوماً في السنة الكبيسة؟",
+   "a": "366",
+   "aa": "٣٦٦",
+   "d": 1
+  },
+  {
+   "q": "Which animal is called the king of the jungle?",
+   "qa": "أي حيوان يُلقّب بملك الغابة؟",
+   "a": "The lion",
+   "aa": "الأسد",
+   "d": 1
+  },
+  {
+   "q": "What do bees make?",
+   "qa": "ماذا يصنع النحل؟",
+   "a": "Honey",
+   "aa": "العسل",
+   "d": 1
+  },
+  {
+   "q": "How many letters are in the English alphabet?",
+   "qa": "كم حرفاً في الأبجدية الإنجليزية؟",
+   "a": "26",
+   "aa": "٢٦",
+   "d": 1
+  },
+  {
+   "q": "What is the first month of the year?",
+   "qa": "ما هو أول شهر في السنة؟",
+   "a": "January",
+   "aa": "يناير",
+   "d": 1
+  },
+  {
+   "q": "How many sides does a triangle have?",
+   "qa": "كم ضلعاً للمثلث؟",
+   "a": "3",
+   "aa": "ثلاثة",
+   "d": 1
+  },
+  {
+   "q": "What is the largest animal in the world?",
+   "qa": "ما هو أكبر حيوان في العالم؟",
+   "a": "The blue whale",
+   "aa": "الحوت الأزرق",
+   "d": 1
+  },
+  {
+   "q": "What do we call a baby dog?",
+   "qa": "ماذا نسمي صغير الكلب؟",
+   "a": "A puppy",
+   "aa": "جرو",
+   "d": 1
+  },
+  {
+   "q": "How many minutes are in an hour?",
+   "qa": "كم دقيقة في الساعة؟",
+   "a": "60",
+   "aa": "ستون",
+   "d": 1
+  },
+  {
+   "q": "What is the currency of the USA?",
+   "qa": "ما هي عملة الولايات المتحدة؟",
+   "a": "The dollar",
+   "aa": "الدولار",
+   "d": 1
+  },
+  {
+   "q": "Which fruit keeps the doctor away, they say?",
+   "qa": "أي فاكهة تُبعد الطبيب عنك كما يقال؟",
+   "a": "The apple",
+   "aa": "التفاح",
+   "d": 1
+  },
+  {
+   "q": "How many colours are in a rainbow?",
+   "qa": "كم لوناً في قوس قزح؟",
+   "a": "7",
+   "aa": "سبعة",
+   "d": 1
+  },
+  {
+   "q": "What do you call frozen water?",
+   "qa": "ماذا نسمي الماء المتجمد؟",
+   "a": "Ice",
+   "aa": "الجليد",
+   "d": 1
+  },
+  {
+   "q": "What is the opposite of hot?",
+   "qa": "ما عكس كلمة حار؟",
+   "a": "Cold",
+   "aa": "بارد",
+   "d": 1
+  },
+  {
+   "q": "Who painted the Mona Lisa?",
+   "qa": "من رسم الموناليزا؟",
+   "a": "Leonardo da Vinci",
+   "aa": "ليوناردو دا فينشي",
+   "d": 2
+  },
+  {
+   "q": "What is the currency of Japan?",
+   "qa": "ما هي عملة اليابان؟",
+   "a": "The yen",
+   "aa": "الين",
+   "d": 2
+  },
+  {
+   "q": "How many players per team are on court in basketball?",
+   "qa": "كم لاعباً لكل فريق في ملعب كرة السلة؟",
+   "a": "5",
+   "aa": "خمسة",
+   "d": 2
+  },
+  {
+   "q": "What is the fastest land animal?",
+   "qa": "ما هو أسرع حيوان بري؟",
+   "a": "The cheetah",
+   "aa": "الفهد",
+   "d": 2
+  },
+  {
+   "q": "In what year did World War II end?",
+   "qa": "في أي عام انتهت الحرب العالمية الثانية؟",
+   "a": "1945",
+   "aa": "1945",
+   "d": 2
+  },
+  {
+   "q": "What is the largest planet in the solar system?",
+   "qa": "ما هو أكبر كوكب في المجموعة الشمسية؟",
+   "a": "Jupiter",
+   "aa": "المشتري",
+   "d": 2
+  },
+  {
+   "q": "How many strings does a standard guitar have?",
+   "qa": "كم وتراً للغيتار العادي؟",
+   "a": "6",
+   "aa": "ستة",
+   "d": 2
+  },
+  {
+   "q": "Who wrote Romeo and Juliet?",
+   "qa": "من كتب روميو وجولييت؟",
+   "a": "William Shakespeare",
+   "aa": "ويليام شكسبير",
+   "d": 2
+  },
+  {
+   "q": "What is the hardest natural material?",
+   "qa": "ما هي أصلب مادة طبيعية؟",
+   "a": "Diamond",
+   "aa": "الألماس",
+   "d": 2
+  },
+  {
+   "q": "What is the tallest building in the world?",
+   "qa": "ما هو أطول مبنى في العالم؟",
+   "a": "Burj Khalifa",
+   "aa": "برج خليفة",
+   "d": 2
+  },
+  {
+   "q": "Which country gave the Statue of Liberty to the USA?",
+   "qa": "أي دولة أهدت تمثال الحرية لأمريكا؟",
+   "a": "France",
+   "aa": "فرنسا",
+   "d": 2
+  },
+  {
+   "q": "What is the currency of the UK?",
+   "qa": "ما هي عملة بريطانيا؟",
+   "a": "The pound sterling",
+   "aa": "الجنيه الإسترليني",
+   "d": 2
+  },
+  {
+   "q": "How many rings are on the Olympic flag?",
+   "qa": "كم حلقة على العلم الأولمبي؟",
+   "a": "5",
+   "aa": "خمس",
+   "d": 2
+  },
+  {
+   "q": "Which company created the iPhone?",
+   "qa": "أي شركة صنعت الآيفون؟",
+   "a": "Apple",
+   "aa": "أبل",
+   "d": 2
+  },
+  {
+   "q": "Which instrument has black and white keys?",
+   "qa": "أي آلة موسيقية لها مفاتيح سوداء وبيضاء؟",
+   "a": "The piano",
+   "aa": "البيانو",
+   "d": 2
+  },
+  {
+   "q": "What is the largest land mammal?",
+   "qa": "ما هو أكبر حيوان ثديي بري؟",
+   "a": "The African elephant",
+   "aa": "الفيل الأفريقي",
+   "d": 2
+  },
+  {
+   "q": "What is the most spoken language by total speakers?",
+   "qa": "ما هي أكثر لغة يتحدث بها الناس في العالم؟",
+   "a": "English",
+   "aa": "الإنجليزية",
+   "d": 2
+  },
+  {
+   "q": "Who developed the theory of relativity?",
+   "qa": "من وضع النظرية النسبية؟",
+   "a": "Albert Einstein",
+   "aa": "ألبرت أينشتاين",
+   "d": 3
+  },
+  {
+   "q": "In which year did the Titanic sink?",
+   "qa": "في أي عام غرقت التايتانيك؟",
+   "a": "1912",
+   "aa": "1912",
+   "d": 3
+  },
+  {
+   "q": "Which ancient wonder of the world still stands?",
+   "qa": "أي عجائب الدنيا القديمة لا تزال قائمة؟",
+   "a": "The Great Pyramid of Giza",
+   "aa": "الهرم الأكبر في الجيزة",
+   "d": 3
+  },
+  {
+   "q": "Who was the first person to walk on the Moon?",
+   "qa": "من أول إنسان مشى على القمر؟",
+   "a": "Neil Armstrong",
+   "aa": "نيل أرمسترونغ",
+   "d": 3
+  },
+  {
+   "q": "What is the smallest prime number?",
+   "qa": "ما هو أصغر عدد أولي؟",
+   "a": "2",
+   "aa": "اثنان",
+   "d": 3
+  },
+  {
+   "q": "Which language is spoken in Brazil?",
+   "qa": "ما هي لغة البرازيل؟",
+   "a": "Portuguese",
+   "aa": "البرتغالية",
+   "d": 3
+  },
+  {
+   "q": "Who invented the telephone?",
+   "qa": "من اخترع الهاتف؟",
+   "a": "Alexander Graham Bell",
+   "aa": "ألكسندر غراهام بل",
+   "d": 3
+  },
+  {
+   "q": "Which city hosted the first modern Olympics in 1896?",
+   "qa": "أي مدينة استضافت أول أولمبياد حديث عام 1896؟",
+   "a": "Athens",
+   "aa": "أثينا",
+   "d": 3
+  },
+  {
+   "q": "What is the main ingredient of hummus?",
+   "qa": "ما المكوّن الأساسي للحمص؟",
+   "a": "Chickpeas",
+   "aa": "الحمص (الحبوب)",
+   "d": 3
+  },
+  {
+   "q": "In which year did the Berlin Wall fall?",
+   "qa": "في أي عام سقط جدار برلين؟",
+   "a": "1989",
+   "aa": "1989",
+   "d": 3
+  },
+  {
+   "q": "Which metal is liquid at room temperature?",
+   "qa": "أي معدن يكون سائلاً في درجة حرارة الغرفة؟",
+   "a": "Mercury",
+   "aa": "الزئبق",
+   "d": 3
+  },
+  {
+   "q": "What is the currency of Saudi Arabia?",
+   "qa": "ما هي عملة السعودية؟",
+   "a": "The riyal",
+   "aa": "الريال",
+   "d": 3
+  },
+  {
+   "q": "Which Jordanian city is carved into rose-red rock?",
+   "qa": "أي مدينة أردنية منحوتة في الصخر الوردي؟",
+   "a": "Petra",
+   "aa": "البتراء",
+   "d": 3
+  },
+  {
+   "q": "Who painted The Starry Night?",
+   "qa": "من رسم لوحة ليلة النجوم؟",
+   "a": "Vincent van Gogh",
+   "aa": "فنسنت فان غوخ",
+   "d": 3
+  },
+  {
+   "q": "In which year was the first iPhone released?",
+   "qa": "في أي عام صدر أول آيفون؟",
+   "a": "2007",
+   "aa": "2007",
+   "d": 3
+  },
+  {
+   "q": "Who wrote the play Hamlet?",
+   "qa": "من كتب مسرحية هاملت؟",
+   "a": "William Shakespeare",
+   "aa": "ويليام شكسبير",
+   "d": 3
+  }
+ ],
+ "Football Questions": [
+  {
+   "q": "How many players per team are on the pitch?",
+   "a": "11",
+   "d": 1
+  },
+  {
+   "q": "Which country won the 2022 World Cup?",
+   "a": "Argentina",
+   "d": 1
+  },
+  {
+   "q": "Which country hosted the 2022 World Cup?",
+   "a": "Qatar",
+   "d": 1
+  },
+  {
+   "q": "Which club is nicknamed Los Blancos?",
+   "a": "Real Madrid",
+   "d": 1
+  },
+  {
+   "q": "Which country won the 2018 World Cup?",
+   "a": "France",
+   "d": 2
+  },
+  {
+   "q": "What is Liverpool's home stadium called?",
+   "a": "Anfield",
+   "d": 2
+  },
+  {
+   "q": "Who has the most Ballon d'Or awards?",
+   "a": "Lionel Messi",
+   "d": 2
+  },
+  {
+   "q": "Who scored the 'Hand of God' goal?",
+   "a": "Diego Maradona",
+   "d": 3
+  },
+  {
+   "q": "Which club has won the most Champions League titles?",
+   "a": "Real Madrid",
+   "d": 3
+  },
+  {
+   "q": "Which country won the first World Cup in 1930?",
+   "a": "Uruguay",
+   "d": 3
+  }
+ ],
+ "Movies": [
+  {
+   "q": "Which movie features a clownfish named Nemo?",
+   "a": "Finding Nemo",
+   "d": 1
+  },
+  {
+   "q": "What is the wizard school in Harry Potter called?",
+   "a": "Hogwarts",
+   "d": 1
+  },
+  {
+   "q": "What is the lion cub called in The Lion King?",
+   "a": "Simba",
+   "d": 1
+  },
+  {
+   "q": "Who played Jack Sparrow?",
+   "a": "Johnny Depp",
+   "d": 1
+  },
+  {
+   "q": "Which film has the line \"I'll be back\"?",
+   "a": "The Terminator",
+   "d": 2
+  },
+  {
+   "q": "Who directed Titanic?",
+   "a": "James Cameron",
+   "d": 2
+  },
+  {
+   "q": "Which film won Best Picture at the 2020 Oscars?",
+   "a": "Parasite",
+   "d": 3
+  },
+  {
+   "q": "Which film is the highest grossing of all time (unadjusted)?",
+   "a": "Avatar",
+   "d": 3
+  }
+ ],
+ "Science": [
+  {
+   "q": "What is the chemical formula of water?",
+   "a": "H2O",
+   "d": 1
+  },
+  {
+   "q": "What force keeps us on the ground?",
+   "a": "Gravity",
+   "d": 1
+  },
+  {
+   "q": "What is the closest star to Earth?",
+   "a": "The Sun",
+   "d": 1
+  },
+  {
+   "q": "What gas do plants absorb?",
+   "a": "Carbon dioxide",
+   "d": 1
+  },
+  {
+   "q": "How many bones are in an adult human body?",
+   "a": "206",
+   "d": 2
+  },
+  {
+   "q": "What is the hardest natural substance?",
+   "a": "Diamond",
+   "d": 2
+  },
+  {
+   "q": "Which planet has the most moons?",
+   "a": "Saturn",
+   "d": 3
+  },
+  {
+   "q": "What is the speed of light, roughly?",
+   "a": "300,000 km/s",
+   "d": 3
+  }
+ ]
+}
